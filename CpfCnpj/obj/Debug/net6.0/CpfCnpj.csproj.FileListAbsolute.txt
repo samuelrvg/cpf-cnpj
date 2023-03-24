@@ -1,0 +1,15 @@
+C:\projetos\cpf-cnpj\CpfCnpj\bin\Debug\net6.0\CpfCnpj.exe
+C:\projetos\cpf-cnpj\CpfCnpj\bin\Debug\net6.0\CpfCnpj.deps.json
+C:\projetos\cpf-cnpj\CpfCnpj\bin\Debug\net6.0\CpfCnpj.runtimeconfig.json
+C:\projetos\cpf-cnpj\CpfCnpj\bin\Debug\net6.0\CpfCnpj.dll
+C:\projetos\cpf-cnpj\CpfCnpj\bin\Debug\net6.0\CpfCnpj.pdb
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\CpfCnpj.csproj.AssemblyReference.cache
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\CpfCnpj.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\CpfCnpj.AssemblyInfoInputs.cache
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\CpfCnpj.AssemblyInfo.cs
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\CpfCnpj.csproj.CoreCompileInputs.cache
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\CpfCnpj.dll
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\refint\CpfCnpj.dll
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\CpfCnpj.pdb
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\CpfCnpj.genruntimeconfig.cache
+C:\projetos\cpf-cnpj\CpfCnpj\obj\Debug\net6.0\ref\CpfCnpj.dll
